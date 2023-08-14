@@ -12,8 +12,8 @@ The objectives of the project are as follows:
 
 1. **Data Understanding**: Familiarize ourselves with the dataset and its features.
 2. **Exploratory Data Analysis (EDA)**: Unveil patterns, trends, and relationships between different variables.
-  - Univariate Analysis
-  - Bivariate Analysis
+   - Univariate Analysis
+   - Bivariate Analysis
 3. **Data Preprocessing**: Prepare the data for future machine learning tasks.
    - Remove irrelevant features
    - Address missing values
@@ -99,7 +99,7 @@ The dataset comprises various metrics related to heart health. The features of t
 </div>
 <br>
 
-You can find the dataset [here](https://github.com/FarzadNekouee/Heart_Disease_Prediction/blob/main/heart.csv).
+You can find the dataset [here](heart.csv).
 
 ## File Descriptions
 - `Heart Disease Prediction.ipynb`: Jupyter notebook containing all the data exploration, visualization, modeling, and evaluation code.
